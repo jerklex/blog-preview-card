@@ -20,7 +20,7 @@ Bu, Frontend Mentor'daki [Blog Önizleme Kartı](https://www.frontendmentor.io/c
 ### Linkler
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-- Live Site URL: [Add live site URL here](https://jerklex.github.io/blog-preview-card-main/)
+- Live Site URL: [Add live site URL here](https://jerklex.github.io/blog-preview-card/)
 
 
 ## Yazar
